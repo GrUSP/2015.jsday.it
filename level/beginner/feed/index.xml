@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beginner &#8211; jsDay 2015</title>
+	<atom:link href="/level/beginner/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Thu, 05 Nov 2015 08:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Building a P2P chat desktop application in JavaScript and HTML</title>
+		<link>/talk/building-a-p2p-chat-desktop-application-in-javascript-and-html/</link>
+		<pubDate>Thu, 07 May 2015 09:49:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=424</guid>
+		<description><![CDATA[Electron (formerly atom-shell) is a Github project that wrap the chromium browser and node to make it extremely easy for you to build desktop applications powered by web technology. In this talk I&#8217;ll explain why Electron is incredible cool and show case how to build a truly p2p chat application using electron and a bunch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Electron (formerly atom-shell) is a Github project that wrap the chromium browser and node to make it extremely easy for you to build desktop applications powered by web technology. In this talk I&#8217;ll explain why Electron is incredible cool and show case how to build a truly p2p chat application using electron and a bunch of node modules.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Breaking The Broken Web</title>
+		<link>/talk/breaking-the-broken-web/</link>
+		<pubDate>Tue, 07 Apr 2015 16:10:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=414</guid>
+		<description><![CDATA[TBD]]></description>
+				<content:encoded><![CDATA[<p>TBD</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Frontend, Backend, Embedded: become a FULL STACK developer with Tessel, Javascript and MQTT.</title>
+		<link>/talk/frontend-backend-embedded-become-a-full-stack-developer-with-tessel-javascript-and-mqtt/</link>
+		<pubDate>Sat, 21 Mar 2015 17:47:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=401</guid>
+		<description><![CDATA[Tessel is the innovative development board that let you code your embedded application using the most popular language in the world: Javascript. In this workshop we will teach you how to build you first Internet of Things applications using Tessel, MQTT, and Javascript. No, we will not do a tweeting coffee machine, what we will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tessel is the innovative development board that let you code your embedded application using the most popular language in the world: Javascript. In this workshop we will teach you how to build you first Internet of Things applications using Tessel, MQTT, and Javascript. No, we will not do a tweeting coffee machine, what we will build is up to you.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>REAL JavaScript games outside your computer</title>
+		<link>/talk/real-javascript-games-outside-your-computer/</link>
+		<pubDate>Fri, 20 Mar 2015 22:16:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=376</guid>
+		<description><![CDATA[&#8220;OMG, this Polish freak will talk about web gaming again. WHYY?&#8221; &#8220;C&#8217;mon dude, we all know that it&#8217;s possible to make a game in web technologies that run on mobile phone, fridge, printer, gaming console and etc. JUST STAHP!&#8221; &#8220;AGAIN? JS games are soooo 2011! &#8220;If any of the above was you first thought, I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;OMG, this Polish freak will talk about web gaming again. WHYY?&#8221; &#8220;C&#8217;mon dude, we all know that it&#8217;s possible to make a game in web technologies that run on mobile phone, fridge, printer, gaming console and etc. JUST STAHP!&#8221; &#8220;AGAIN? JS games are soooo 2011! &#8220;If any of the above was you first thought, I&#8217;m sorry to disappoint you. During this talk I&#8217;ll present my journey from JavaScript to real board games. The games you use to play with your friends on rainy days 30 years ago. You would probably ask how the hell you can write board version of Chess or Monopoly using JavaScript? Everything will be explained during JSDay this year, see you there :).</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sound Synthesis in the Browser</title>
+		<link>/talk/sound-synthesis-in-the-browser/</link>
+		<pubDate>Fri, 20 Mar 2015 22:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=375</guid>
+		<description><![CDATA[The Web Audio API is incredibly simple and fun to play with. But you need some understanding of sound synthesis in order to really have fun with it.In this talk we will go over the basic theory of sound synthesis, learn what oscillators, LFOs and FM synthesis is.Once we will have developed some understanding about [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The Web Audio API is incredibly simple and fun to play with. But you need some understanding of sound synthesis in order to really have fun with it.In this talk we will go over the basic theory of sound synthesis, learn what oscillators, LFOs and FM synthesis is.Once we will have developed some understanding about the theory, we will see how easy it is to implement all of this in JavaScript.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>FireFox OS for Dummies</title>
+		<link>/talk/firefox-os-for-dummies/</link>
+		<pubDate>Fri, 20 Mar 2015 22:10:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=373</guid>
+		<description><![CDATA[Mozilla’s FireFox OS is the next up and coming operating system for smartphones ?ldquo; its ultra-low hardware requirements allow it to be used to create ultra-low-end handsets for developing markets. ZTE sold 100k units of the Open, and plans a significantly higher amount of devices for the successor.However, developing for FFOS is a bit weird [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Mozilla’s FireFox OS is the next up and coming operating system for smartphones ?ldquo; its ultra-low hardware requirements allow it to be used to create ultra-low-end handsets for developing markets. ZTE sold 100k units of the Open, and plans a significantly higher amount of devices for the successor.However, developing for FFOS is a bit weird as there is no real framework involved. Tamoggemon Holding k.s. has ported a few of its applications to the new operating system ?ldquo; this talk would show developers how to create FireFox OS applications efficiently and which pitfalls should best be avoided.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Talking and listening to web pages</title>
+		<link>/talk/talking-and-listening-to-web-pages/</link>
+		<pubDate>Fri, 20 Mar 2015 22:03:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=369</guid>
+		<description><![CDATA[As web developers, our job is to build nice, fast, and reliable websites, web apps, or web services. But our role isn&#8217;t limited to this. We have to build these products not only for our ideal users but for a range of people as wide as possible. Today&#8217;s browsers help us in achieving this goal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As web developers, our job is to build nice, fast, and reliable websites, web apps, or web services. But our role isn&#8217;t limited to this. We have to build these products not only for our ideal users but for a range of people as wide as possible. Today&#8217;s browsers help us in achieving this goal providing APIs created with this scope in mind. One of these APIs is the Web Speech API that provides speech input and text-to-speech output features in a web browser.In this talk you&#8217;ll learn what the Web Speech API is and how it can drastically improve the way users, especially those with disabilities, perform tasks in your web pages.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Dancing with Robots</title>
+		<link>/talk/dancing-with-robots/</link>
+		<pubDate>Fri, 20 Mar 2015 21:59:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=367</guid>
+		<description><![CDATA[Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep! Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore how we can write code to make this possible, but it will also be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Web apps are great and everything, but imagine using JS to fly drones and make them dance to the sounds of dubstep! Or to control disco lights and other robots! Sounds fun, right? In this talk, we will not only explore how we can write code to make this possible, but it will also be full of exciting, interactive (and possibly dangerous <img src="https://s.w.org/images/core/emoji/2.2.1/72x72/1f609.png" alt="&#x1f609;" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ) demos!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>WebGL with Three.js</title>
+		<link>/talk/webgl-with-three-js/</link>
+		<pubDate>Fri, 20 Mar 2015 21:54:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=365</guid>
+		<description><![CDATA[In this workshop you will get your hands onto all that&#8217;s needed to level up your web applications with the power of the third dimension.You will learn the basics to get an interactive 3D world on screen with Three.js, how to load 3D models from various formats and tips and tricks to gain the best [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In this workshop you will get your hands onto all that&#8217;s needed to level up your web applications with the power of the third dimension.You will learn the basics to get an interactive 3D world on screen with Three.js, how to load 3D models from various formats and tips and tricks to gain the best performance.We will also cover shader programming with GLSL in WebGL.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>JavaScript and Internet Controlled Hardware Prototyping</title>
+		<link>/talk/javascript-and-internet-controlled-hardware-prototyping/</link>
+		<pubDate>Fri, 20 Mar 2015 21:46:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=361</guid>
+		<description><![CDATA[The electronics maker movement has led a massive shift in how people are re-engineering the world around them through rapid hardware prototyping. With the rise of inexpensive, wifi and bluetooth low energy enabled electronics, this hardware revolution is internet and mobile controlled, all through simple bridges to build the electronics intelligence in familiar web languages.In [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The electronics maker movement has led a massive shift in how people are re-engineering the world around them through rapid hardware prototyping. With the rise of inexpensive, wifi and bluetooth low energy enabled electronics, this hardware revolution is internet and mobile controlled, all through simple bridges to build the electronics intelligence in familiar web languages.In this session, we will play with Arduino microcontrollers and JavaScript to take a first dive into the world of internet controlled electronics, exploring topics such as:- Setting up an Arduino to be controlled through web APIs- Using JavaScript language bridges on the Arduino- The future of web controlled hardware prototyping</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2015.jsday.it @ 2017-02-13 21:50:33 by W3 Total Cache -->

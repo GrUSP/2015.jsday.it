@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aurelio De Rosa &#8211; jsDay 2015</title>
+	<atom:link href="/speakers/aurelio-de-rosa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Thu, 05 Nov 2015 08:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Talking and listening to web pages</title>
+		<link>/talk/talking-and-listening-to-web-pages/</link>
+		<pubDate>Fri, 20 Mar 2015 22:03:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=369</guid>
+		<description><![CDATA[As web developers, our job is to build nice, fast, and reliable websites, web apps, or web services. But our role isn&#8217;t limited to this. We have to build these products not only for our ideal users but for a range of people as wide as possible. Today&#8217;s browsers help us in achieving this goal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As web developers, our job is to build nice, fast, and reliable websites, web apps, or web services. But our role isn&#8217;t limited to this. We have to build these products not only for our ideal users but for a range of people as wide as possible. Today&#8217;s browsers help us in achieving this goal providing APIs created with this scope in mind. One of these APIs is the Web Speech API that provides speech input and text-to-speech output features in a web browser.In this talk you&#8217;ll learn what the Web Speech API is and how it can drastically improve the way users, especially those with disabilities, perform tasks in your web pages.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2015.jsday.it @ 2017-02-13 21:50:38 by W3 Total Cache -->

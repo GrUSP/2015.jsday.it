@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marco Cedaro &#8211; jsDay 2015</title>
+	<atom:link href="/speakers/marco-cedaro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Thu, 05 Nov 2015 08:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>So you want to learn javascript? An open letter to a future front end developer</title>
+		<link>/talk/so-you-want-to-learn-javascript-an-open-letter-to-a-future-front-end-developer/</link>
+		<pubDate>Fri, 20 Mar 2015 22:35:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=386</guid>
+		<description><![CDATA[&#8220;Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.&#8221; What if you have to start today? What would you need to know in order to nail at front end development? This talk will explore with you the cornerstones of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.&#8221; What if you have to start today? What would you need to know in order to nail at front end development? This talk will explore with you the cornerstones of a craft that evolved in the last few years, but never left the basics behind and don&#8217;t give for granted you know them already, there are quite a few things that we are doing wrong: let&#8217;s forget what we know to start from scratch.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2015.jsday.it @ 2017-02-13 21:50:37 by W3 Total Cache -->

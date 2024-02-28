@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>intermediate &#8211; jsDay 2015</title>
+	<atom:link href="/level/intermediate/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Thu, 05 Nov 2015 08:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Enterprise IoT Systems with Node and MQTT</title>
+		<link>/talk/enterprise-iot-systems-with-node-and-mqtt/</link>
+		<pubDate>Wed, 06 May 2015 18:06:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=422</guid>
+		<description><![CDATA[Node.js is the de-facto standard to implement IoT projects. In this talk we will discuss the MQTT.js library, how to use it in the client and in the browser with Websockets, and the Mosca MQTT broker which will play a central role in your new IoT architecture. &#160;]]></description>
+				<content:encoded><![CDATA[<p>Node.js is the de-facto standard to implement IoT projects. In this talk we will discuss the MQTT.js library, how to use it in the client and in the browser with Websockets, and the Mosca MQTT broker which will play a central role in your new IoT architecture.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The other side of DevOps: Virtualization to support JavaScript Developers</title>
+		<link>/talk/the-other-side-of-devops-virtualization-to-support-javascript-developers/</link>
+		<pubDate>Fri, 20 Mar 2015 22:51:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=399</guid>
+		<description><![CDATA[If you&#8217;re writing software, somebody somewhere has to deploy it. How do you make sure your developer preferences don&#8217;t impact your production environment? And how do you make sure that your production environment doesn&#8217;t impose a set of tools on your developers?This talk will explore how a DevOps team can support a Dev team &#8212; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;re writing software, somebody somewhere has to deploy it. How do you make sure your developer preferences don&#8217;t impact your production environment? And how do you make sure that your production environment doesn&#8217;t impose a set of tools on your developers?This talk will explore how a DevOps team can support a Dev team &#8212; and what a Dev team should ask for from DevOps. Both sides of the shop need to understand what they are delivering at an early stage in development, and what they each can provide to each other in order to make implementation easier. This talk will provide a starting point to have that discussion.From a practical perspective, we&#8217;ll go over how we use Vagrant in development at bitHound: How we keep our environments in sync, and the strategies we&#8217;ve developed to reduce friction using these tools on a day to day basis.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Offline-first web apps, the painless way</title>
+		<link>/talk/offline-first-web-apps-the-painless-way/</link>
+		<pubDate>Fri, 20 Mar 2015 22:49:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=397</guid>
+		<description><![CDATA[Being offline sucks. It’s one of the biggest pains in our ever growing hyper-connected world.The ideal scenario would be that web applications took care of this downside, but still the majority of application programmers doesn’t develop for the offline state.Thanks to the evolution of HTML5 offline features and new JavaScript frameworks like hood.ie we can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Being offline sucks. It’s one of the biggest pains in our ever growing hyper-connected world.The ideal scenario would be that web applications took care of this downside, but still the majority of application programmers doesn’t develop for the offline state.Thanks to the evolution of HTML5 offline features and new JavaScript frameworks like hood.ie we can now build offline-first applications without too much hassle.In this talk, I will show you how to build offline-first applications, illustrating some of the benefits for the user and your business. I will explain how creating offline-capable applications can be fun and why we need to rethink established solutions in order to pave the way for a more user-friendly future.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Implementing a real time BitTorrent file system in 25mins</title>
+		<link>/talk/implementing-a-real-time-bittorrent-file-system-in-25mins/</link>
+		<pubDate>Fri, 20 Mar 2015 22:46:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=395</guid>
+		<description><![CDATA[A hands-on talk about how to implement your own filesystem that is backed by BitTorrent and Node.js. Expect plenty of live coding and mad science.]]></description>
+				<content:encoded><![CDATA[<p>A hands-on talk about how to implement your own filesystem that is backed by BitTorrent and Node.js. Expect plenty of live coding and mad science.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>So you want to learn javascript? An open letter to a future front end developer</title>
+		<link>/talk/so-you-want-to-learn-javascript-an-open-letter-to-a-future-front-end-developer/</link>
+		<pubDate>Fri, 20 Mar 2015 22:35:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=386</guid>
+		<description><![CDATA[&#8220;Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.&#8221; What if you have to start today? What would you need to know in order to nail at front end development? This talk will explore with you the cornerstones of a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime.&#8221; What if you have to start today? What would you need to know in order to nail at front end development? This talk will explore with you the cornerstones of a craft that evolved in the last few years, but never left the basics behind and don&#8217;t give for granted you know them already, there are quite a few things that we are doing wrong: let&#8217;s forget what we know to start from scratch.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Exploring the third dimension with WebGL</title>
+		<link>/talk/exploring-the-third-dimension-with-webgl/</link>
+		<pubDate>Fri, 20 Mar 2015 22:33:33 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=385</guid>
+		<description><![CDATA[The modern web is tearing down the borders of the browser window and allows us to create so much more than just another website. This talk is a whirlwind tour of how the multitude of sensors, 3D and virtual reality can be woven into entirely new applications that the web hasn&#8217;t seen yet. Using multi-device [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The modern web is tearing down the borders of the browser window and allows us to create so much more than just another website. This talk is a whirlwind tour of how the multitude of sensors, 3D and virtual reality can be woven into entirely new applications that the web hasn&#8217;t seen yet. Using multi-device interactions and innovative technologies like WebGL and WebVR we can create experiences that allow completely new interactions with content and our audiences. We’ll take a look at some of these possibilities and more.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Isomorphic Javascript in real</title>
+		<link>/talk/isomorphic-javascript-in-real/</link>
+		<pubDate>Fri, 20 Mar 2015 22:31:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=384</guid>
+		<description><![CDATA[Isomorphic javascript is a buzzword that now has some appeal, mostly because one can show he knows what &#8220;isomorphic&#8221; means. The main point is that in certain context to have the same language, and code, that runs on client and server can save from big headaches. In the presentation I will explain what was the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Isomorphic javascript is a buzzword that now has some appeal, mostly because one can show he knows what &#8220;isomorphic&#8221; means. The main point is that in certain context to have the same language, and code, that runs on client and server can save from big headaches. In the presentation I will explain what was the declination me and my team decided to apply in order to build a platform where SEO crawler navigation is safe and the user has no annoying client side loading transitions whenever he decides to reload a page. It&#8217;s easier than you think if you glue together some Nodejs, Rhino and, if you like, Backbone, RequireJs and Handlebars.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>BDD &#8211; how a JavaScript Dev would do it!</title>
+		<link>/talk/bdd-how-a-javascript-dev-would-do-it/</link>
+		<pubDate>Fri, 20 Mar 2015 22:27:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=382</guid>
+		<description><![CDATA[Introducing ShouldIT?! In BBC Sport we felt like the Cucumber/Gherkin based BDD set up was dragging us down. We did however love the JS testing tools like Jasmine and Mocha and were doing excellently with these in our Angular.js app.So we created a BDD tool that could marry up this JavaScript testing goodness with the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Introducing ShouldIT?! In BBC Sport we felt like the Cucumber/Gherkin based BDD set up was dragging us down. We did however love the JS testing tools like Jasmine and Mocha and were doing excellently with these in our Angular.js app.So we created a BDD tool that could marry up this JavaScript testing goodness with the values of BDD. ShouldIT? encourages you to document your requirements in slick beautiful markdown, helps you to know what tests need to be written and can tie in well with all of your front and back end code. Richard will demo ShouldIT? and show you how BDD can be introduced into your JavaScript workflow with ease.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Using Docker for Node.js Testing and Deployment</title>
+		<link>/talk/using-docker-for-node-js-testing-and-deployment/</link>
+		<pubDate>Fri, 20 Mar 2015 22:22:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=380</guid>
+		<description><![CDATA[The technical community faces many challenges everyday. One of these challenges is the ability of managing, moving, and duplication of environments. We develop in different environments than our applications actually run and node.js and node modules can behave differently across operation systems. With all the different tools available, Docker can provide a duplicatable environment for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The technical community faces many challenges everyday. One of these challenges is the ability of managing, moving, and duplication of environments. We develop in different environments than our applications actually run and node.js and node modules can behave differently across operation systems. With all the different tools available, Docker can provide a duplicatable environment for testing our node.js Applications. Join me in this session to learn more about how Docker will abstract the differences across environments creating a more reliable staging while also laying the foundation for production deployments.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Unlearn Everything</title>
+		<link>/talk/unlearn-everything/</link>
+		<pubDate>Fri, 20 Mar 2015 22:06:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=371</guid>
+		<description><![CDATA[React has changed the way we write web applications.To begin with, React is not easy because it requires an open mind.In this session I will talk about the &#8220;best practices&#8221; put in discussion by React giving, for each one, the answers I gave myself to accept the change and some ideas to work out of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>React has changed the way we write web applications.To begin with, React is not easy because it requires an open mind.In this session I will talk about the &#8220;best practices&#8221; put in discussion by React giving, for each one, the answers I gave myself to accept the change and some ideas to work out of the comfort zone.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2015.jsday.it @ 2017-02-13 21:50:34 by W3 Total Cache -->

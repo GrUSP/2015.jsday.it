@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taron Foxworth &#8211; jsDay 2015</title>
+	<atom:link href="/speakers/taron-foxworth/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Thu, 05 Nov 2015 08:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Using Docker for Node.js Testing and Deployment</title>
+		<link>/talk/using-docker-for-node-js-testing-and-deployment/</link>
+		<pubDate>Fri, 20 Mar 2015 22:22:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=380</guid>
+		<description><![CDATA[The technical community faces many challenges everyday. One of these challenges is the ability of managing, moving, and duplication of environments. We develop in different environments than our applications actually run and node.js and node modules can behave differently across operation systems. With all the different tools available, Docker can provide a duplicatable environment for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The technical community faces many challenges everyday. One of these challenges is the ability of managing, moving, and duplication of environments. We develop in different environments than our applications actually run and node.js and node modules can behave differently across operation systems. With all the different tools available, Docker can provide a duplicatable environment for testing our node.js Applications. Join me in this session to learn more about how Docker will abstract the differences across environments creating a more reliable staging while also laying the foundation for production deployments.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2015.jsday.it @ 2017-02-13 21:50:37 by W3 Total Cache -->

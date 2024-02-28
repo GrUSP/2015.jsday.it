@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>advanced &#8211; jsDay 2015</title>
+	<atom:link href="/level/advanced/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Thu, 05 Nov 2015 08:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>The Fluid Architecture</title>
+		<link>/talk/the-fluid-architecture/</link>
+		<pubDate>Fri, 20 Mar 2015 22:43:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=393</guid>
+		<description><![CDATA[Deciding on an architecture has to be a very big deal. Two, three or more layers? What database to use: SQL, NoSQL or NewSQL? You want some messaging with that setup? In many companies there are entire departments dedicated to deciding on an architecture and then refining it until it&#8217;s perfect. But the fact remains [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Deciding on an architecture has to be a very big deal. Two, three or more layers? What database to use: SQL, NoSQL or NewSQL? You want some messaging with that setup? In many companies there are entire departments dedicated to deciding on an architecture and then refining it until it&#8217;s perfect. But the fact remains that there is not a perfect architecture for all situations, and probably not even for a particular situation. The modern stack has very stringent requirements of functionality, scalability, and cost, which keep changing all the time. So why do we expect a rigid architecture to thrive in such a changing environment?At MediaSmart Mobile we have to answer many thousands requests per second under very stringent conditions, plus add new functionality all the time to remain ahead of the competition. We might expect our architecture to support anything we throw at it; instead we allow it to reflect the changing conditions and evolve as needed. Nothing is sacred: from databases (where we have performed several large-scale migrations in two years) to configuration or even hosting company, we are open to any changes that might increase our scalability and/or lower our costs. The key is to keep our architecture fluid, instead of committing to past decisions.We will illustrate the principles of the fluid architecture with real-life examples using Node.js.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>JavaScript Craftsmanship</title>
+		<link>/talk/javascript-craftsmanship/</link>
+		<pubDate>Fri, 20 Mar 2015 22:41:04 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=391</guid>
+		<description><![CDATA[Avoid stepping into the rabbit hole with common anti-patterns and bad code. With a strong emphasis on how JavaScript code can be done beautiful and maintainable, this talk explains how to write very readable and testable code. At eBay we love to have our code clean, so we’ll use some examples of eBay’s code during [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Avoid stepping into the rabbit hole with common anti-patterns and bad code. With a strong emphasis on how JavaScript code can be done beautiful and maintainable, this talk explains how to write very readable and testable code. At eBay we love to have our code clean, so we’ll use some examples of eBay’s code during this presentation.We’ll touch topics on how functional can intersect with object oriented programming to decrease the learning curve to your code. Or how choosing the correct data structures is more important than ever to guarantee optimal performance. All of this in a framework agnostic way, so that it is easy to take home and apply to your projects with ease. Hopefully after you have attended this talk you will code cleaner.Topics covered:Code readabilityFunctional JSObject Oriented JSUnit TestingCode structuring</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Back to the future: Isomorphic javascript applications</title>
+		<link>/talk/back-to-the-future-isomorphic-javascript-applications/</link>
+		<pubDate>Fri, 20 Mar 2015 22:38:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=389</guid>
+		<description><![CDATA[Remember when we use to &#8220;render&#8221; websites directly from the backend?Single page applications are cool and catchy, but some times they fall short, for example, when hit by a search engine, and that&#8217;s when you start turning to ismorphic javascript applications.in this talk I share our exprience gained on the field while turning our frontends [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Remember when we use to &#8220;render&#8221; websites directly from the backend?Single page applications are cool and catchy, but some times they fall short, for example, when hit by a search engine, and that&#8217;s when you start turning to ismorphic javascript applications.in this talk I share our exprience gained on the field while turning our frontends form angular SPAs to ismorphic vanillaJS javascript apps with node a a thin active layer on the client side.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Transducers FTW!</title>
+		<link>/talk/transducers-ftw/</link>
+		<pubDate>Fri, 20 Mar 2015 21:48:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=362</guid>
+		<description><![CDATA[Over time we have seen several &#8220;utility&#8221; frameworks for dealing with Javascript data structures and processing abstractions.It all started simple with Underscode, became more functional with Lodash, and reached the Next Level with Ramda, but it got a bit messy when developers looked for a way out of callback hell (generally through promises or one [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over time we have seen several &#8220;utility&#8221; frameworks for dealing with Javascript data structures and processing abstractions.It all started simple with Underscode, became more functional with Lodash, and reached the Next Level with <a href="http://ramdajs.com/">Ramda</a>, but it got a bit messy when developers looked for a way out of callback hell (generally through promises or one of the <span style="text-decoration: underline;">reactive</span> frameworks like Rx, Bacon, Highland, Kefir&#8230;).Then the Clojure world brought us <a href="http://blog.cognitect.com/blog/2014/8/6/transducers-are-coming" target="_blank">transducers</a>. They redefine the &#8220;processing a sequence&#8221; concept encompassing the usual &#8220;map&#8221;, &#8220;reduce&#8221;, and &#8220;filter&#8221; functions, and can be applied to both synchronous and asynchronous computations.In this talk we will see how to use them in Javascript (mostly through <a href="http://simplectic.com/projects/underarm)">underarm</a>), and especially how they can help you producing better code.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2015.jsday.it @ 2017-02-13 21:50:35 by W3 Total Cache -->

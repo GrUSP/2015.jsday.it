@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>english &#8211; jsDay 2015</title>
+	<atom:link href="/language/english/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The international Javascript Conference</description>
+	<lastBuildDate>Thu, 05 Nov 2015 08:27:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Extreme Pixels</title>
+		<link>/talk/extreme-pixels/</link>
+		<pubDate>Thu, 14 May 2015 05:40:39 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=429</guid>
+		<description><![CDATA[TBD]]></description>
+				<content:encoded><![CDATA[<p>TBD</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Building a P2P chat desktop application in JavaScript and HTML</title>
+		<link>/talk/building-a-p2p-chat-desktop-application-in-javascript-and-html/</link>
+		<pubDate>Thu, 07 May 2015 09:49:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=424</guid>
+		<description><![CDATA[Electron (formerly atom-shell) is a Github project that wrap the chromium browser and node to make it extremely easy for you to build desktop applications powered by web technology. In this talk I&#8217;ll explain why Electron is incredible cool and show case how to build a truly p2p chat application using electron and a bunch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Electron (formerly atom-shell) is a Github project that wrap the chromium browser and node to make it extremely easy for you to build desktop applications powered by web technology. In this talk I&#8217;ll explain why Electron is incredible cool and show case how to build a truly p2p chat application using electron and a bunch of node modules.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Enterprise IoT Systems with Node and MQTT</title>
+		<link>/talk/enterprise-iot-systems-with-node-and-mqtt/</link>
+		<pubDate>Wed, 06 May 2015 18:06:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=422</guid>
+		<description><![CDATA[Node.js is the de-facto standard to implement IoT projects. In this talk we will discuss the MQTT.js library, how to use it in the client and in the browser with Websockets, and the Mosca MQTT broker which will play a central role in your new IoT architecture. &#160;]]></description>
+				<content:encoded><![CDATA[<p>Node.js is the de-facto standard to implement IoT projects. In this talk we will discuss the MQTT.js library, how to use it in the client and in the browser with Websockets, and the Mosca MQTT broker which will play a central role in your new IoT architecture.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Breaking The Broken Web</title>
+		<link>/talk/breaking-the-broken-web/</link>
+		<pubDate>Tue, 07 Apr 2015 16:10:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=414</guid>
+		<description><![CDATA[TBD]]></description>
+				<content:encoded><![CDATA[<p>TBD</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Breaking out of the endless callback loop</title>
+		<link>/talk/breaking-out-of-the-endless-callback-loop/</link>
+		<pubDate>Sun, 22 Mar 2015 08:36:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=403</guid>
+		<description><![CDATA[As JavaScript developers, we are hot property. We&#8217;re also busy and we&#8217;re stressed. And we are addicted to inventing new things when there are perfectly working solutions at hand. In this talk Chris Heilmann of Microsoft will cover the mistakes we make, the stress we put on ourselves and how we can approach the undefined [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As JavaScript developers, we are hot property. We&#8217;re also busy and we&#8217;re stressed. And we are addicted to inventing new things when there are perfectly working solutions at hand. In this talk Chris Heilmann of Microsoft will cover the mistakes we make, the stress we put on ourselves and how we can approach the undefined here and now and tackle the near future without burning up. We have to stop leaving scorched ground behind and call it innovation.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Frontend, Backend, Embedded: become a FULL STACK developer with Tessel, Javascript and MQTT.</title>
+		<link>/talk/frontend-backend-embedded-become-a-full-stack-developer-with-tessel-javascript-and-mqtt/</link>
+		<pubDate>Sat, 21 Mar 2015 17:47:46 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=401</guid>
+		<description><![CDATA[Tessel is the innovative development board that let you code your embedded application using the most popular language in the world: Javascript. In this workshop we will teach you how to build you first Internet of Things applications using Tessel, MQTT, and Javascript. No, we will not do a tweeting coffee machine, what we will [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tessel is the innovative development board that let you code your embedded application using the most popular language in the world: Javascript. In this workshop we will teach you how to build you first Internet of Things applications using Tessel, MQTT, and Javascript. No, we will not do a tweeting coffee machine, what we will build is up to you.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The other side of DevOps: Virtualization to support JavaScript Developers</title>
+		<link>/talk/the-other-side-of-devops-virtualization-to-support-javascript-developers/</link>
+		<pubDate>Fri, 20 Mar 2015 22:51:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=399</guid>
+		<description><![CDATA[If you&#8217;re writing software, somebody somewhere has to deploy it. How do you make sure your developer preferences don&#8217;t impact your production environment? And how do you make sure that your production environment doesn&#8217;t impose a set of tools on your developers?This talk will explore how a DevOps team can support a Dev team &#8212; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>If you&#8217;re writing software, somebody somewhere has to deploy it. How do you make sure your developer preferences don&#8217;t impact your production environment? And how do you make sure that your production environment doesn&#8217;t impose a set of tools on your developers?This talk will explore how a DevOps team can support a Dev team &#8212; and what a Dev team should ask for from DevOps. Both sides of the shop need to understand what they are delivering at an early stage in development, and what they each can provide to each other in order to make implementation easier. This talk will provide a starting point to have that discussion.From a practical perspective, we&#8217;ll go over how we use Vagrant in development at bitHound: How we keep our environments in sync, and the strategies we&#8217;ve developed to reduce friction using these tools on a day to day basis.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Offline-first web apps, the painless way</title>
+		<link>/talk/offline-first-web-apps-the-painless-way/</link>
+		<pubDate>Fri, 20 Mar 2015 22:49:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=397</guid>
+		<description><![CDATA[Being offline sucks. It’s one of the biggest pains in our ever growing hyper-connected world.The ideal scenario would be that web applications took care of this downside, but still the majority of application programmers doesn’t develop for the offline state.Thanks to the evolution of HTML5 offline features and new JavaScript frameworks like hood.ie we can [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Being offline sucks. It’s one of the biggest pains in our ever growing hyper-connected world.The ideal scenario would be that web applications took care of this downside, but still the majority of application programmers doesn’t develop for the offline state.Thanks to the evolution of HTML5 offline features and new JavaScript frameworks like hood.ie we can now build offline-first applications without too much hassle.In this talk, I will show you how to build offline-first applications, illustrating some of the benefits for the user and your business. I will explain how creating offline-capable applications can be fun and why we need to rethink established solutions in order to pave the way for a more user-friendly future.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Implementing a real time BitTorrent file system in 25mins</title>
+		<link>/talk/implementing-a-real-time-bittorrent-file-system-in-25mins/</link>
+		<pubDate>Fri, 20 Mar 2015 22:46:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=395</guid>
+		<description><![CDATA[A hands-on talk about how to implement your own filesystem that is backed by BitTorrent and Node.js. Expect plenty of live coding and mad science.]]></description>
+				<content:encoded><![CDATA[<p>A hands-on talk about how to implement your own filesystem that is backed by BitTorrent and Node.js. Expect plenty of live coding and mad science.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>The Fluid Architecture</title>
+		<link>/talk/the-fluid-architecture/</link>
+		<pubDate>Fri, 20 Mar 2015 22:43:30 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=talk&#038;p=393</guid>
+		<description><![CDATA[Deciding on an architecture has to be a very big deal. Two, three or more layers? What database to use: SQL, NoSQL or NewSQL? You want some messaging with that setup? In many companies there are entire departments dedicated to deciding on an architecture and then refining it until it&#8217;s perfect. But the fact remains [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Deciding on an architecture has to be a very big deal. Two, three or more layers? What database to use: SQL, NoSQL or NewSQL? You want some messaging with that setup? In many companies there are entire departments dedicated to deciding on an architecture and then refining it until it&#8217;s perfect. But the fact remains that there is not a perfect architecture for all situations, and probably not even for a particular situation. The modern stack has very stringent requirements of functionality, scalability, and cost, which keep changing all the time. So why do we expect a rigid architecture to thrive in such a changing environment?At MediaSmart Mobile we have to answer many thousands requests per second under very stringent conditions, plus add new functionality all the time to remain ahead of the competition. We might expect our architecture to support anything we throw at it; instead we allow it to reflect the changing conditions and evolve as needed. Nothing is sacred: from databases (where we have performed several large-scale migrations in two years) to configuration or even hosting company, we are open to any changes that might increase our scalability and/or lower our costs. The key is to keep our architecture fluid, instead of committing to past decisions.We will illustrate the principles of the fluid architecture with real-life examples using Node.js.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: 2015.jsday.it @ 2017-02-13 21:50:33 by W3 Total Cache -->
